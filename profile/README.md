@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 The ttdu08 team is a french collective of passionate creators specializing in developing websites and digital platforms for gaming communities 🎮. Here's a snapshot of our projects and offerings:
 
@@ -14,4 +14,4 @@ Explore more about us:
 English website: https://ttdu08.fr/en
 Discord server: [Join us](https://discord.com/invite/Yprk6jD9Cz)
 We are currently a team of 7 at ttdu08, actively seeking Discord admins, developers, and translators for our various services! 🤝
--->
+
