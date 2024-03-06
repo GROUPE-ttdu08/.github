@@ -34,5 +34,3 @@ Site web en anglais : https://ttdu08.fr/en
 Serveur Discord : [Rejoignez-nous](https://discord.com/invite/Yprk6jD9Cz)
 Nous sommes actuellement une équipe de 7 personnes chez ttdu08, et nous recherchons activement des administrateurs Discord, des développeurs et des traducteurs pour nos différents services ! 🤝
 
-Traduit avec DeepL.com (version gratuite)
-
