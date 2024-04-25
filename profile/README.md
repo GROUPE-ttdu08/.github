@@ -13,7 +13,7 @@ Explore more about us:
 <p></p>
 English website: https://ttdu08.fr/en
 Discord server: [Join us](https://discord.com/invite/Yprk6jD9Cz)
-<p>We are currently a team of 8 at ttdu08, actively seeking Discord admins, developers, and translators for our various services! 🤝</p>
+<p>We are currently a team of 10 at ttdu08, actively seeking Discord admins, developers, and translators for our various services! 🤝</p>
 <p></p>
 FRENCH
 <p></p>
@@ -32,5 +32,5 @@ FRENCH
 <p></p>
 Site web en anglais : https://ttdu08.fr/en
 Serveur Discord : [Rejoignez-nous](https://discord.com/invite/Yprk6jD9Cz)
-<p>Nous sommes actuellement une équipe de 7 personnes chez ttdu08, et nous recherchons activement des administrateurs Discord, des développeurs et des traducteurs pour nos différents services ! 🤝</p>
+<p>Nous sommes actuellement une équipe de 10 personnes chez ttdu08, et nous recherchons activement des administrateurs Discord, des développeurs et des traducteurs pour nos différents services ! 🤝</p>
 
